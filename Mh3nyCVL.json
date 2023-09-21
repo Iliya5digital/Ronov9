@@ -1,0 +1,242 @@
+{
+    "links": {
+        "link": {
+            "id": "carvisual",
+            "value": "https://static.europcar.com/carvisuals/partners/835x557/ECMR_DE.png"
+        }
+    },
+    "checkin": {
+        "date": 20231028,
+        "stationID": "BERC01",
+        "time": 1350
+    },
+    "checkout": {
+        "date": 20230921,
+        "stationID": "BERC01",
+        "time": 1356
+    },
+    "quote": {
+        "insuranceList": {
+            "insurance": [
+                {
+                    "bkExcessWithPOM": 18000,
+                    "code": "SL",
+                    "descr": "Kunde übernimmt die volle Schadenbeteiligung selbst",
+                    "excessWithPOM": 18000,
+                    "price": 0,
+                    "priceInBookingCurrency": 0,
+                    "rentalPriceAI": 0,
+                    "rentalPriceInBookingCurrencyAI": 0,
+                    "type": "O"
+                },
+                {
+                    "bkExcessWithPOM": 450,
+                    "code": "SCDW",
+                    "descr": "Erweiterter Vollkaskoschutz mit reduzierter Selbstbeteiligung (SCDW)",
+                    "excessWithPOM": 450,
+                    "price": 3.11,
+                    "priceInBookingCurrency": 3.11,
+                    "rentalPriceAI": 136.93,
+                    "rentalPriceInBookingCurrencyAI": 136.93,
+                    "type": "O"
+                },
+                {
+                    "bkExcessWithPOM": 0,
+                    "code": "RSA",
+                    "descr": "Pannenhilfe",
+                    "excessWithPOM": 0,
+                    "price": 3.99,
+                    "priceInBookingCurrency": 3.99,
+                    "rentalPriceAI": 175.68,
+                    "rentalPriceInBookingCurrencyAI": 175.68,
+                    "type": "O"
+                },
+                {
+                    "bkExcessWithPOM": 0,
+                    "code": "PREMPRE",
+                    "excessWithPOM": 0,
+                    "price": 7.06,
+                    "priceInBookingCurrency": 7.06,
+                    "rentalPriceAI": 310.85,
+                    "rentalPriceInBookingCurrencyAI": 310.85,
+                    "type": "O"
+                },
+                {
+                    "bkExcessWithPOM": 0,
+                    "code": "PREMIUM",
+                    "descr": "Premium Schutzpaket (ab 26 Jahren)",
+                    "excessWithPOM": 0,
+                    "price": 7.77,
+                    "priceInBookingCurrency": 7.77,
+                    "rentalPriceAI": 342.11,
+                    "rentalPriceInBookingCurrencyAI": 342.11,
+                    "type": "O"
+                },
+                {
+                    "bkExcessWithPOM": 0,
+                    "code": "PAI",
+                    "descr": "Personeninsassenschutz (PAI)",
+                    "excessWithPOM": 0,
+                    "price": 1.8,
+                    "priceInBookingCurrency": 1.8,
+                    "rentalPriceAI": 79.25,
+                    "rentalPriceInBookingCurrencyAI": 79.25,
+                    "type": "O"
+                },
+                {
+                    "bkExcessWithPOM": 450,
+                    "code": "MEDIUM",
+                    "descr": "Medium Schutzpaket",
+                    "excessWithPOM": 450,
+                    "price": 5.88,
+                    "priceInBookingCurrency": 5.88,
+                    "rentalPriceAI": 258.9,
+                    "rentalPriceInBookingCurrencyAI": 258.9,
+                    "type": "O"
+                },
+                {
+                    "bkExcessWithPOM": 0,
+                    "code": "WWI",
+                    "descr": "Zusatzschutz Reifen, Scheinwerfer & Windschutzscheibe",
+                    "excessWithPOM": 0,
+                    "price": 1.68,
+                    "priceInBookingCurrency": 1.68,
+                    "rentalPriceAI": 73.97,
+                    "rentalPriceInBookingCurrencyAI": 73.97,
+                    "type": "O"
+                },
+                {
+                    "bkExcessWithPOM": 950,
+                    "code": "THW",
+                    "descr": "Diebstahlschutz",
+                    "excessWithPOM": 950,
+                    "price": 1.68,
+                    "priceInBookingCurrency": 1.68,
+                    "rentalPriceAI": 73.97,
+                    "rentalPriceInBookingCurrencyAI": 73.97,
+                    "type": "O"
+                },
+                {
+                    "bkExcessWithPOM": 450,
+                    "code": "STHW",
+                    "descr": "super theft waiver",
+                    "excessWithPOM": 450,
+                    "price": 1.18,
+                    "priceInBookingCurrency": 1.18,
+                    "rentalPriceAI": 51.96,
+                    "rentalPriceInBookingCurrencyAI": 51.96,
+                    "type": "O"
+                },
+                {
+                    "bkExcessWithPOM": 0,
+                    "code": "SPTHW",
+                    "descr": "Diebstahlschutz zur Herabsetzung der SB auf 0,- €",
+                    "excessWithPOM": 0,
+                    "price": 2.02,
+                    "priceInBookingCurrency": 2.02,
+                    "rentalPriceAI": 88.94,
+                    "rentalPriceInBookingCurrencyAI": 88.94,
+                    "type": "O"
+                },
+                {
+                    "bkExcessWithPOM": 0,
+                    "code": "SPCDW",
+                    "descr": "Haftungsreduktion bei Schäden zur Herabsetzung der SB auf 0,- €",
+                    "excessWithPOM": 0,
+                    "price": 5.21,
+                    "priceInBookingCurrency": 5.21,
+                    "rentalPriceAI": 229.4,
+                    "rentalPriceInBookingCurrencyAI": 229.4,
+                    "type": "O"
+                },
+                {
+                    "bkExcessWithPOM": 0,
+                    "code": "ECOLOGIC",
+                    "descr": "Umweltbetrag",
+                    "excessWithPOM": 0,
+                    "price": 0.5,
+                    "priceInBookingCurrency": 0.5,
+                    "rentalPriceAI": 22.02,
+                    "rentalPriceInBookingCurrencyAI": 22.02,
+                    "type": "M"
+                },
+                {
+                    "bkExcessWithPOM": 950,
+                    "code": "LDW",
+                    "descr": "Vollkasko- und Diebstahlschutz (LDW)",
+                    "excessWithPOM": 950,
+                    "price": 0,
+                    "priceInBookingCurrency": 0,
+                    "rentalPriceAI": 0,
+                    "rentalPriceInBookingCurrencyAI": 0,
+                    "type": "I"
+                }
+            ]
+        },
+        "taxList": {
+            "tax": {
+                "taxCode": "STD",
+                "taxRate": 19
+            }
+        },
+        "IncludedKmUnit": "K",
+        "areTaxesIncluded": "N",
+        "basePrice": 25.89,
+        "baseType": "D",
+        "bookingCurrencyOfTotalRateEstimate": "EUR",
+        "currency": "EUR",
+        "exchangeRate": 1,
+        "extraKmPrice": 0.29,
+        "includedKm": 125,
+        "includedKmType": "D",
+        "isAuthorizedForPublicUse": "Y",
+        "isPrepaid": "N",
+        "isPriceSecret": "N",
+        "rentingCurrencyOfTotalRateEstimate": "EUR",
+        "totalIncludedDist": 4625,
+        "totalRateEstimate": 1161.95,
+        "totalRateEstimateInBookingCurrency": 1161.95,
+        "totalRateEstimateInRentingCurrency": 1161.95,
+        "xrsBasePrice": 1139.94,
+        "xrsBasePriceInBookingCurrency": 1139.94
+    },
+    "ageLimit": {
+        "minAgeForCategory": 18,
+        "minAgeForCountry": 18,
+        "minLicencePeriod": "12 months",
+        "youngDriverAge": 23
+    },
+    "carCategory": "ECMR",
+    "carCategoryAirCond": "Y",
+    "carCategoryAutomatic": "N",
+    "carCategoryBaggageQuantity": 1,
+    "carCategoryCO2Quantity": 108,
+    "carCategoryDoors": 5,
+    "carCategoryModelHeight": 1.46,
+    "carCategoryModelLength": 3.97,
+    "carCategoryModelMaxWeight": 1570,
+    "carCategoryModelWeight": 1055,
+    "carCategoryModelWidth": 1.68,
+    "carCategoryName": "ECONOMY 2/4 DOORS,MANUAL,A/C",
+    "carCategoryPowerHP": 75,
+    "carCategoryPowerKW": 55,
+    "carCategorySample": "VW POLO",
+    "carCategorySeats": 5,
+    "carCategoryType": "Eco-responsable",
+    "countryOfReservation": "DE",
+    "duration": 37,
+    "fuelTypeCode": "SU",
+    "productCode": "9R2LNIDE",
+    "productFamily": "PUMT",
+    "productLevel": 950,
+    "productVersion": 9,
+    "rateId": "336eb61cb95b69f3e8bd8b158fc1bb5cbcb62c00511b2d92f623a4c6fb065adb",
+    "resTimeStamp": 202309201426,
+    "reservationDate": 20230920,
+    "reservationTime": 1426,
+    "statusCode": "S",
+    "type": "P",
+    "xrsPartnerCallerID": "Volkswagen VWFS",
+    "addressCountry": "DE",
+    "countryOfResidence": "DE"
+}
